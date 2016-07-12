@@ -1,0 +1,2 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.WinPhone\NewApp.WinPhone.csproj;neutral
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\NewApp.csproj;neutral

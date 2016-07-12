@@ -1,0 +1,9 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\bin\Debug\NewApp.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\bin\Debug\NewApp.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\obj\Debug\NewApp.csprojResolveAssemblyReference.cache
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\obj\Debug\NewApp.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\obj\Debug\NewApp.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\obj\Debug\NewApp.dll.mdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\bin\Debug\NewApp.dll.mdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\obj\Debug\NewApp.dll.mdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp\bin\Debug\NewApp.dll.mdb

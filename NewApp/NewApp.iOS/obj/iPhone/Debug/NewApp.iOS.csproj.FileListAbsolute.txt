@@ -1,0 +1,13 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\bin\iPhone\Debug\NewAppiOS.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\bin\iPhone\Debug\NewAppiOS.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\bin\iPhone\Debug\NewApp.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\bin\iPhone\Debug\NewApp.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\NewApp.iOS.csprojResolveAssemblyReference.cache
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\NewAppiOS.exe
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\NewAppiOS.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\obj\iPhone\Debug\NewAppiOS.exe.mdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\NewApp\NewApp.iOS\bin\iPhone\Debug\NewAppiOS.exe.mdb
